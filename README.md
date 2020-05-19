@@ -15,7 +15,7 @@ Não foi permitida a utilização de qualquer framework ou biblioteca. Então to
 
 O banco de dados utilizado é o SQLite, e está localizado na pasta ___database__ sob o nome __database.sqlite__ localizada na raiz da pasta.
 
-O script para criação está localizado na mesma pasta sob o nome de __database.sql__.
+O script para criação está localizado na mesma pasta sob o nome de [__database.sql__](_database/database.sql).
 
 ## Instalação
 
